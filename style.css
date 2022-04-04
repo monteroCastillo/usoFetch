@@ -1,0 +1,32 @@
+.contenedor{
+    border: 2px;
+    border: #DDD;
+    padding: 5px;
+    padding: 20px;
+    border-radius: 15px;
+    background-color: #b9ffe1;
+    border: #035a41;
+    font-family: cursive;
+    width: 600px;
+    margin: auto;
+    font-size: 18px;
+}
+
+body{
+    background: #253e37;
+}
+
+#btnCargar{   
+    border-radius: 25px; 
+    font-size: 14px;
+    
+
+}
+
+.listado span{
+    color: #062e95;
+}
+
+#selectPais{
+    font-size: 14px;
+}
